@@ -5,4 +5,4 @@ An analysis of the forces required to drag sheep over various surfaces -     JT 
 The neurocognitive effects of alcohol on adolescents and college students  - DW Zeigler, CC Wang, RA Yoast, BD Dickinson… - Preventive …, 2005 - Elsevier
 
 
-![graph][Graph.png]
+![Graph](Graph.png)
